@@ -43,6 +43,7 @@ Core areas:
 | Media Ingest | [Veldora to Shuna ingest workflow](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/nextcloud-drop-folder-to-media-library.md) | Reproducible Nextcloud-to-Jellyfin staging, ingest, scan, and recovery pattern. |
 | File Sync Operations | [Veldora Nextcloud operations](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/veldora-nextcloud-operations.md) | Operating file sync as a controlled upload surface with scans, ownership, and recovery. |
 | Media Server Operations | [Shuna Jellyfin operations](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/shuna-jellyfin-operations.md) | Operating media libraries, clients, metadata, access paths, monitoring, and recovery. |
+| Public Media Edge | [Shuna public edge and reverse proxy](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/shuna-public-edge-reverse-proxy.md) | Safe Jellyfin-style public access with no-domain testing, owned-domain setup, hardening, validation, and rollback. |
 
 ## What This Portfolio Demonstrates
 
