@@ -40,6 +40,9 @@ Core areas:
 | Monitoring | [Monitoring that helps instead of making noise](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/monitoring-that-helps.md) | Actionable checks across origin, proxy, DNS, public route, and alerting. |
 | Operations | [Portainer local endpoint recovery](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/incident-notes/portainer-stale-docker-socket.md) | Real incident diagnosis, fix, verification, and prevention notes. |
 | Platform Services | [Home media platform case study](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/projects/home-media-platform.md) | Access paths, automation, metadata cleanup, monitoring, and recovery. |
+| Media Ingest | [Veldora to Shuna ingest workflow](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/nextcloud-drop-folder-to-media-library.md) | Reproducible Nextcloud-to-Jellyfin staging, ingest, scan, and recovery pattern. |
+| File Sync Operations | [Veldora Nextcloud operations](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/veldora-nextcloud-operations.md) | Operating file sync as a controlled upload surface with scans, ownership, and recovery. |
+| Media Server Operations | [Shuna Jellyfin operations](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/shuna-jellyfin-operations.md) | Operating media libraries, clients, metadata, access paths, monitoring, and recovery. |
 
 ## What This Portfolio Demonstrates
 
