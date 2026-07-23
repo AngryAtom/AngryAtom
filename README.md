@@ -24,6 +24,7 @@ Core areas:
 - Remote access and support workflows for devices outside the LAN.
 - Media and file automation with realistic failure handling.
 - Security review, remediation tracking, and contained cyber range planning.
+- Dedicated SIEM architecture with host, container, reverse-proxy, honeypot, and custom telemetry.
 - Product development through practical applications and case studies.
 
 [Explore Tempest Lab Systems](https://github.com/AngryAtom/tempest-lab-systems)
@@ -34,6 +35,7 @@ Core areas:
 | --- | --- | --- |
 | Architecture | [Tempest architecture overview](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/architecture/overview.md) | Platform layers, topology, and design principles. |
 | Service Operations | [Service catalog model](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/architecture/service-catalog.md) | How services are classified, exposed, monitored, and documented. |
+| Security Telemetry | [Telemetry and SIEM architecture](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/architecture/telemetry-and-siem-architecture.md) | Dedicated SOC node design, event sources, trust boundaries, and validation checks. |
 | Security | [Security posture review](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/security/security-posture-review.md) | Practical hardening, exposure rules, and review cadence. |
 | Networking | [Private DNS and reverse proxy naming layer](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/private-dns-reverse-proxy.md) | Internal DNS, HTTPS routing, VPN behavior, and proxy troubleshooting. |
 | Public Edge | [Public and private service edge](https://github.com/AngryAtom/tempest-lab-systems/blob/main/docs/guides/public-private-service-edge.md) | Public exposure decisions, rollback planning, and edge monitoring. |
